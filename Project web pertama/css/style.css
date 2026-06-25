@@ -1,4 +1,16 @@
 h1 {
     color: blue;
-    font-family: Arial;
+    font-family: arial;
+    font-size: 40px;
+    font-weight: normal;
+    font-variant: small-caps;
+}
+
+p {
+    font-family: georgia, serif;
+    line-height: 30px;
+}
+
+body { 
+    font: italic normal 16px/18px helvetica,arial, sans-serif;
 }
