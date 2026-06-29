@@ -1,5 +1,5 @@
 h1 {
-    color: #08ff00;
+    color: goldenrod;
     font-family: arial;
     font-size: 40px;
     font-weight: normal;
@@ -18,10 +18,16 @@ p {
     text-align: justify;
     text-indent: 20px;
     text-transform: uppercase;
+    color: whitesmoke
+;
 }
 
 body { 
     font: italic normal 16px/18px helvetica,arial, sans-serif;
+    background-color: lightblue;
+    background-image: url(../images/background5.jpg);
 }
 
-a { text-decoration: none;}
+a { text-decoration: none;
+    color: orange;
+}
