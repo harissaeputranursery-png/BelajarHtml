@@ -1,9 +1,15 @@
 h1 {
-    color: blue;
+    color: #08ff00;
     font-family: arial;
     font-size: 40px;
     font-weight: normal;
     font-variant: small-caps;
+}
+
+h2 {
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 
 p {
