@@ -22,6 +22,16 @@ p {
 ;
 }
 
+.paragraf1{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 40px;
+    text-align: justify;
+    text-indent: 30px;
+    text-transform: uppercase;
+    color: gold;
+         
+}
+
 body { 
     font: italic normal 16px/18px helvetica,arial, sans-serif;
     background-color: lightblue;
