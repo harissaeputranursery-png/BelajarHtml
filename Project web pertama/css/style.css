@@ -1,13 +1,13 @@
-h1 {
-    color: goldenrod;
+.header{
+    color: white;
     font-family: arial;
     font-size: 40px;
     font-weight: normal;
     font-variant: small-caps;
 }
 
-h2 {
-    color: goldenrod;
+.header-cristiano{
+    color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
@@ -25,11 +25,10 @@ h2 {
 }
 
 body { 
-    font: italic normal 16px/18px helvetica,arial, sans-serif;
-    background-color: lightblue;
+    
     background-image: url(../images/background5.jpg);
 }
 
-a { text-decoration: none;
-    color: orange;
+a { text-decoration: solid;
+    color: white;
 }
